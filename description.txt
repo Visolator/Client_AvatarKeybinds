@@ -1,0 +1,4 @@
+Title: Avatar Favorites Keybinds
+Author: SadBlobfish (6835), fixed by Visolator
+Adds keybinds for your avatar favorites. Suggested by Edd Eddington (BLID 107032).
+- Temporary fix because of poor code practice causing add-ons to constantly reload or crash the game (or pause it)
